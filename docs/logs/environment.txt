@@ -1,0 +1,6 @@
+﻿date: 2026-11-02 21:06:50 +03:00
+os: Майкрософт Windows 10 Домашняя 10.0.19045 build 19045
+cpu: AMD Ryzen 5 7600X 6-Core Processor             
+commit: 8d8f923
+count: 100, interval_ms: 500, timeout_ms: 1000
+server: 127.0.0.1:27015, proxy: 127.0.0.1:27016
