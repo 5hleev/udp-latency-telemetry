@@ -1,0 +1,12 @@
+build/
+out/
+.vs/
+.vscode/
+*.exe
+*.obj
+*.pdb
+*.ilk
+__pycache__/
+*.pdf
+/Практика 2.txt
+/server.log
